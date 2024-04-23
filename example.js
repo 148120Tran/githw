@@ -7,8 +7,8 @@ function master() {
 }
 
 function branchCommon() {
-  if (a === 1) {
-    return a * b * c;
+  if (c === 3) {
+    return c - b - a;
   }
 
   return 0;
